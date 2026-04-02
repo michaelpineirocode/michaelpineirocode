@@ -5,3 +5,7 @@ Programming since 2014, and I've never stopped learning
 - [Contentful account
 ](https://github.com/michaelpineirocontentful)
 - [Pax8 account ](https://github.com/mpineiropax8)
+
+## Contact me
+[LinkedIn
+](https://www.linkedin.com/in/michael-pineiro/)
